@@ -1,0 +1,20 @@
+{
+  "short_name": "RTVTK Wallboard",
+  "name": "RTVTK Wallboard - Dispozicija zadataka",
+  "icons": [
+    {
+      "src": "rtvtk-logo.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "rtvtk-logo.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1e40af",
+  "background_color": "#ffffff"
+}
