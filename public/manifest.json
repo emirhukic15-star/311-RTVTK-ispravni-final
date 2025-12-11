@@ -1,0 +1,27 @@
+{
+  "short_name": "RTVTK Planner",
+  "name": "RTVTK Planner - Radio Televizija Tuzla Kanton",
+  "description": "Web aplikacija za dispoziciju, raspored i wallboard",
+  "icons": [
+    {
+      "src": "rtvtk-logo.jpg",
+      "type": "image/jpeg",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "rtvtk-logo.jpg",
+      "type": "image/jpeg",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "theme_color": "#1e40af",
+  "background_color": "#ffffff",
+  "scope": "/",
+  "categories": ["productivity", "business"],
+  "prefer_related_applications": false
+}
