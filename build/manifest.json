@@ -1,0 +1,20 @@
+{
+  "short_name": "RTVTK Planner",
+  "name": "RTVTK Planner - Radio Televizija Tuzla Kanton",
+  "icons": [
+    {
+      "src": "rtvtk-logo.jpg",
+      "type": "image/jpeg",
+      "sizes": "192x192"
+    },
+    {
+      "src": "rtvtk-logo.jpg",
+      "type": "image/jpeg",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1f2937",
+  "background_color": "#ffffff"
+}
